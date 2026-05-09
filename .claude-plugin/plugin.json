@@ -1,0 +1,8 @@
+{
+  "name": "lede",
+  "version": "0.1.0",
+  "description": "Show what you could have said in your first prompt. Analyzes a session chunk and surfaces a stronger starting point for similar future work.",
+  "author": {
+    "name": "Yash Choudhary"
+  }
+}
