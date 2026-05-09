@@ -1,0 +1,3 @@
+{"type":"user","message":{"role":"user","content":"hi"},"timestamp":"2026-05-08T10:00:00Z"}
+{"type":"assistant","message":{"role":"assistant","content":[{"type":"text","text":"hello"}]},"timestamp":"2026-05-08T10:00:01Z"}
+{"type":"user","message":{"role":"user","content":"/assess"},"timestamp":"2026-05-08T10:00:30Z"}

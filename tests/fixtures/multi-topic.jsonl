@@ -1,0 +1,9 @@
+{"type":"user","message":{"role":"user","content":"what's the syntax for python list comprehensions"},"timestamp":"2026-05-08T09:00:00Z"}
+{"type":"assistant","message":{"role":"assistant","content":[{"type":"text","text":"[expr for x in iter]"}]},"timestamp":"2026-05-08T09:00:10Z"}
+{"type":"user","message":{"role":"user","content":"thanks"},"timestamp":"2026-05-08T09:00:20Z"}
+{"type":"assistant","message":{"role":"assistant","content":[{"type":"text","text":"yw"}]},"timestamp":"2026-05-08T09:00:30Z"}
+{"type":"user","message":{"role":"user","content":"ok new task — build a React todo app"},"timestamp":"2026-05-08T11:30:00Z"}
+{"type":"assistant","message":{"role":"assistant","content":[{"type":"tool_use","name":"Write","input":{"file_path":"src/App.jsx","content":"// app"}}]},"timestamp":"2026-05-08T11:30:10Z"}
+{"type":"user","message":{"role":"user","content":"use tailwind"},"timestamp":"2026-05-08T11:31:00Z"}
+{"type":"assistant","message":{"role":"assistant","content":[{"type":"tool_use","name":"Edit","input":{"file_path":"src/App.jsx","old_string":"x","new_string":"y"}}]},"timestamp":"2026-05-08T11:31:30Z"}
+{"type":"user","message":{"role":"user","content":"add localStorage"},"timestamp":"2026-05-08T11:32:00Z"}
