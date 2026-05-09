@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -e
 cd "$(dirname "$0")"
+shopt -s nullglob
 
 ANY_FAIL=0
 for t in test-*.sh; do
